@@ -1,7 +1,7 @@
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin: 120px auto;
-    width: 100px;
+    margin: 60px auto;
+    width: 90%;
 }
 nav ul, footer ul {
     background-color: black;
@@ -36,6 +36,7 @@ h2 {
 }
 blurb {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    width 500px;
 }
 
 p {
