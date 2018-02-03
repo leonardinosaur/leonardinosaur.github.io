@@ -36,7 +36,8 @@ h2 {
 }
 blurb {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    width 500px;
+   margin: 120px auto; 
+   width 70%;
 }
 
 p {
